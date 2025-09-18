@@ -48,6 +48,15 @@ yarn install
 └── README.md
 
 ```
+---
+2. Install dependencies
+npm install
+# or
+yarn install
+
+---
+3. Start the Expo server
+npx expo start
 
 ---
 
@@ -70,6 +79,9 @@ Or scan the QR code in the Expo Go app
 👷 Event organizers can find technicians & crew
 
 📺 Promoters can highlight featured videos
+
+---
+
 #####
 🎨 UI Preview
 
@@ -80,6 +92,9 @@ Horizontal musicians list
 Grid layout for latest gigs and featured videos
 
 Equipment hire integration (planned)
+
+---
+
 #######
 🤝 Contributing
 
