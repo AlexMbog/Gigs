@@ -1,4 +1,3 @@
-
 export interface CustomButtonProps {
   title: string;
   onPress: () => void;
@@ -15,3 +14,8 @@ export interface CustomInputProps {
   keyboardType?: "default" | "email-address" | "numeric" | "phone-pad";
   leftIcon?: React.ReactNode;
 }
+export interface HeaderProps {
+  title: string;
+  showBackButton?: boolean;
+  onBackPress?: () => void;
+} 

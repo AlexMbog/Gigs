@@ -2,7 +2,7 @@ import { images } from "@/constants";
 import { Image, TextInput, TouchableOpacity, View } from "react-native";
 export default function SearchBar() {
   return (
-    <View className="w-[346px] h-14 flex-row items-center border rounded-lg px-3 py-2 bg-blue-400 m-2">
+    <View className="w-[346px] h-14 flex-row items-center border rounded-lg px-3 py-2 bg-blue-400 mt-2" >
       <TextInput
         className="flex-1"
         placeholder="search"

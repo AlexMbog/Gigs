@@ -24,10 +24,13 @@ export default function Tabslayout() {
     >
       <Tabs.Screen
         name="home"
+   
         options={{
           title: "Home",
+           headerShown: false,
           tabBarIcon: ({ color }) => (
             <AntDesign name="home" size={24} color={color} />
+            
           ),
         }}
       />

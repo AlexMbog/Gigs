@@ -21,6 +21,23 @@ export const musicians = [
     name: "Alex Mbogo",
     image: require("@/assets/images/musician4.jpeg"),
   },
+    {
+    id: "5",
+    name: "Alex Mbogo",
+    image: require("@/assets/images/musician5.jpeg"),
+  },  {
+    id: "6",
+    name: "Alex Mbogo",
+    image: require("@/assets/images/musician6.jpeg"),
+  },  {
+    id: "7",
+    name: "Alex Mbogo",
+    image: require("@/assets/images/musician7.jpeg"),
+  },  {
+    id: "8",
+    name: "Alex Mbogo",
+    image: require("@/assets/images/musician8.jpeg"),
+  },
 ];
 export const gigs = [
   {
@@ -40,6 +57,17 @@ export const gigs = [
     title: "Acoustic Night",
     subtitle: "The Local Pub, 7 PM",
     image: require("@/assets/images/gig3.jpeg"),
+  },
+    {
+    id: "4",
+    title: "Acoustic Night",
+    subtitle: "The Local Pub, 7 PM",
+    image: require("@/assets/images/gig4.jpeg"),
+  },  {
+    id: "5",
+    title: "Acoustic Night",
+    subtitle: "The Local Pub, 7 PM",
+    image: require("@/assets/images/gig5.jpeg"),
   },
 ];
 export const images = {
